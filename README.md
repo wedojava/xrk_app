@@ -10,3 +10,4 @@
 
 样式预览:
 
+![预览](https://coding.net/u/wedojava/p/xrk_app/git/raw/master/screenshot.png)
