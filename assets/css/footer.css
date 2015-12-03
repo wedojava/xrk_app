@@ -1,0 +1,33 @@
+.bhl_footer {
+    float: left;
+    width: 100%;
+    background-color: #1B1C1D;
+    min-height: 300px;
+    height: auto;
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #FEFEFE;
+    text-align: left;
+}
+.bhl_footer .container{
+	/*width:70%;*/
+	min-width: 1170px;
+}
+.bhl_footer .breadcrumb{
+  background: none;
+}
+.bhl_footer h4{
+  color: #fff;
+}
+.bhl_footer span{
+  font-size: 15px;
+}
+.bhl_footer a{
+  color: #09f;
+}
+.bhl_footer a:hover{
+  color:#66ccff;
+}
+.bhl_footer .nav-pills a:hover{
+  color:#333;
+}
