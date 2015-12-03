@@ -10,4 +10,4 @@
 
 样式预览:
 
-![预览](https://coding.net/u/wedojava/p/xrk_app/git/raw/master/screenshot.png)
+![预览](https://github.com/wedojava/xrk_app/blob/master/screenshot.png?raw=true)
